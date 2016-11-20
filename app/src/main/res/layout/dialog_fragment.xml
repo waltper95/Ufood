@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- fragment_edit_name.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_compra"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="340dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:padding="10dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"  >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/nombre_compra"
+            android:layout_alignParentStart="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="200dp"
+            android:textSize="25sp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/precio_compra"
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/ufood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/calorias_compra"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/medium_grey"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/tarjeta_compra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/medium_grey"/>
+    <Button
+        android:id="@+id/but_compra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/ufood"
+        android:textColor="@color/white"
+        android:text="@string/comprar"
+        android:layout_gravity="end"/>
+</LinearLayout>

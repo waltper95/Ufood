@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UFood</string>
+    <string name="action_settings">Settings</string>
+    <string name="la_carta">La carta</string>
+    <string name="jugos_y_desayunos">Jugos y desayunos</string>
+    <string name="historia">Historia</string>
+    <string name="pago">Pago</string>
+    <string name="promociones">Promociones</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="comprar">Comprar</string>
+    <string name="cancelar_orden">Cancelar orden</string>
+    <string name="ver_codigo">Ver código</string>
+    <string name="en_curso">En curso</string>
+    <string name="listo">Listo</string>
+    <string name="a_adir_tarjeta">Añadir Tarjeta</string>
+    <string name="n_mero_de_tarjeta">Número de tarjeta</string>
+    <string name="mm">MM</string>
+    <string name="yyyy">YYYY</string>
+    <string name="cvv">CVV</string>
+    <string name="ufood">UFood</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="tarjetas">Tarjetas</string>
+    <string name="_6923_9534">•••• •••• 6923 9534</string>
+    <string name="sample_card">•••• •••• 6923 9534</string>
+    <string name="logout">Logout</string>
+</resources>

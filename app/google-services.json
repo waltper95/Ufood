@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "693972552043",
+    "firebase_url": "https://ufood-dcee9.firebaseio.com",
+    "project_id": "ufood-dcee9",
+    "storage_bucket": "ufood-dcee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693972552043:android:0cf4210359d71221",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.samplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693972552043-kfrli3c44gfod2bbnvh9p2bernsa3vil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2R8BDfGHMZaKYQnHwpXZ5G5jb0IU7KE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693972552043:android:6db1fccac30512a2",
+        "android_client_info": {
+          "package_name": "com.example.josue.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693972552043-kfrli3c44gfod2bbnvh9p2bernsa3vil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2R8BDfGHMZaKYQnHwpXZ5G5jb0IU7KE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693972552043:android:27ffa55af030f10c",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.ufood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693972552043-6t4rm8ph51bke2ovolqnevr8o9gsou37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.ulima.ufood",
+            "certificate_hash": "7EEAE06389229343759DFD361C5BC7F8EA720796"
+          }
+        },
+        {
+          "client_id": "693972552043-kfrli3c44gfod2bbnvh9p2bernsa3vil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2R8BDfGHMZaKYQnHwpXZ5G5jb0IU7KE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693972552043-kfrli3c44gfod2bbnvh9p2bernsa3vil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

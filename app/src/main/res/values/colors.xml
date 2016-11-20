@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparente">#c8000000</color>
+    <color name="transparente2">#50000000</color>
+    <color name="white">#fff</color>
+    <color name="ufood">#388e3c</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+    <color name="line_color">#c7c7c7</color>
+    <color name="black">#000</color>
+    <color name="red">#b71c1c</color>
+</resources>

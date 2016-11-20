@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tarjetas"
+            android:textStyle="bold"
+            android:textColor="@color/ufood"
+            android:textSize="14sp"/>
+        <View android:id="@+id/separator"
+            android:background="@color/ufood"
+            android:layout_width = "fill_parent"
+            android:layout_height="1dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/visa" />
+        <TextView
+            android:textColor="@color/medium_grey"
+            android:paddingTop="10dp"
+            android:id="@+id/list_num_tarjeta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_6923_9534"
+            android:layout_marginStart="@dimen/md_keylines"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <View
+        android:textColor="@color/medium_grey"
+        android:background="@color/button_grey"
+        android:layout_width = "fill_parent"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+        <ImageView
+            android:textColor="@color/medium_grey"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:src="@drawable/mastercard" />
+
+        <TextView
+            android:textColor="@color/medium_grey"
+            android:paddingTop="10dp"
+            android:id="@+id/list_num_tarjeta1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_card"
+            android:layout_marginStart="@dimen/md_keylines"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <View
+        android:textColor="@color/medium_grey"
+        android:id="@+id/separator3"
+        android:background="@color/button_grey"
+        android:layout_width = "fill_parent"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/visa" />
+        <TextView
+            android:textColor="@color/medium_grey"
+            android:paddingTop="10dp"
+            android:id="@+id/list_num_tarjeta3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sample_card"
+            android:layout_marginStart="@dimen/md_keylines"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="16sp" />
+    </LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
